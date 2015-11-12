@@ -1,1 +1,29 @@
+/*
+CSS: element, id, class
 
+selector{
+	property:value;
+	
+}
+*/
+
+body{
+	background-image: url("wild_flowers.png");
+}
+
+
+h1{
+	text-decoration:underline
+}
+
+#header{
+	text-align: center;
+}
+#images_hz {
+width: 960px;
+height: auto;
+overflow: hidden;
+}
+#images_hz img {
+display: inline;
+margin: 0 10px;}
