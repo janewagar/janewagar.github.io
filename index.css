@@ -7,10 +7,14 @@ selector{
 }
 */
 
+
 body{
 	background-color;
 }
-
+body {
+    background-image: url("https://cloud.githubusercontent.com/assets/15823622/11233118/687cb824-8d88-11e5-88b0-22745bed88b0.jpg");
+    background-repeat: repeat-x;
+}
 
 h1{
 	text-align:center;
