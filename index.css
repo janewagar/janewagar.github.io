@@ -19,6 +19,9 @@ body {
 h1{
 	text-align:center;
 }
+.img-circle {
+    border-radius: 50%;
+}
 .preview{
 	display:inline-block;
 	width:400px;
