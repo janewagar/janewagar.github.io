@@ -13,8 +13,7 @@ body{
 }
 body {
     background-image: url("https://cloud.githubusercontent.com/assets/15823622/11262458/79c4c002-8e4d-11e5-87df-767e86b1ed6c.jpg");
-    background-repeat: repeat-x;
-    background-repeat: repeat-y;
+    background-repeat:repeat;
 }
 
 h1{
