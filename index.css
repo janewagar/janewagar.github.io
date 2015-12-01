@@ -35,3 +35,12 @@ h1{
 	text-align:center;
 	width:100%;
 }
+/* unvisited link */
+a:link {
+    color: 37A4CC;
+}
+
+/* visited link */
+a:visited {
+    color: 37A4CC;
+}
