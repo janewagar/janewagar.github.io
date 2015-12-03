@@ -21,7 +21,7 @@ h1{
 
 
 .preview-image{
-	float:left;
+	display:inline-block;
 	width:400px;
 	height:400px;
 }
