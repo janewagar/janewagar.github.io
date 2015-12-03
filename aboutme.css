@@ -19,12 +19,8 @@ h1{
 	text-align:center;
 }
 
-image{
+.preview-image{
 	float:left;
 	width:400px;
 	height:400px;
-}
-.container{
-	text-align:center;
-	width:100%;
 }
