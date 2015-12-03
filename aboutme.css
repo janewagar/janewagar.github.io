@@ -14,3 +14,21 @@ body {
     background-image: url("https://cloud.githubusercontent.com/assets/15823622/11514065/97897c4e-9844-11e5-9e9e-20e56629d0b2.jpg");
     background-repeat:repeat;
 }
+
+h1{
+	text-align:center;
+}
+
+.preview{
+	display:inline-block;
+	width:400px;
+	height:400px;
+}
+.preview-image{
+	width:400px;
+	height:400px;
+}
+.container{
+	text-align:center;
+	width:100%;
+}
