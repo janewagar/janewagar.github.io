@@ -20,11 +20,7 @@ h1{
 }
 
 .preview-image{
-	display:inline-block;
-	width:400px;
-	height:400px;
-}
-.preview-image{
+	display:float;
 	width:400px;
 	height:400px;
 }
