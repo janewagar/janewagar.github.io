@@ -1,0 +1,16 @@
+/*
+CSS: element, id, class
+selector{
+	property:value;
+	
+}
+*/
+
+
+body{
+	background-color;
+}
+body {
+    background-image: url("https://cloud.githubusercontent.com/assets/15823622/11514065/97897c4e-9844-11e5-9e9e-20e56629d0b2.jpg");
+    background-repeat:repeat;
+}
